@@ -10,9 +10,9 @@ public class Name
 		{
 			Scanner input = new Scanner(System.in);
 			x = input.nextInt();
-			System.out.println("1을 입력하세요.");
+			System.out.println("input 1");
 		}
 		
-		System.out.println("이상승");
+		System.out.println("Lee SangSeung");
 	}
 }
